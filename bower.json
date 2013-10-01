@@ -1,0 +1,12 @@
+{
+  "name": "Workshop-App",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "2.0.x",
+    "requirejs": "2.1.x",
+    "bootstrap": "3.0.x",
+    "nnnick-chartjs": "*",
+    "underscore": "1.5.x",
+    "requirejs-text": "~2.0.10"
+  }
+}
